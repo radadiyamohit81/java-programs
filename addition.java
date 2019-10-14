@@ -1,3 +1,4 @@
+/*Write a Program to addition of two float number.*/
 import java.util.Scanner;
 class Addition
 {
